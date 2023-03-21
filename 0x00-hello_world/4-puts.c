@@ -1,12 +1,11 @@
 #include<stdio.h>
 /**
- * main- every code start from main function
+ * main - Entry Point
+ * Description: 'the program's description'
+ * Return: Always 0 (success)
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	/**
-	 * return- return zero if success
-	 */
 	return (0);
 }
