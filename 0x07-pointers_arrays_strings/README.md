@@ -1,0 +1,1 @@
+Advance pointer and arrays
